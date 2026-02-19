@@ -1,12 +1,10 @@
-# Overview
-List countries, states, cities for Botble scripts.
+# Описание
+Список стран, регионов и городов для LaraShop.
 
-It's used for all of our scripts on [https://codecanyon.net/user/botble/portfolio](https://1.envato.market/r55vj)
-
-# Screenshots
+# Скриншот
 
 ![Screenshot](./screenshot.png)
 
-# Contact us
-- Website: [https://botble.com](https://botble.com)
-- Email: [contact@botble.com](mailto:contact@botble.com)
+# Контакты
+- Сайт: [https://dev-spb.ru)
+- Email: [contact@botble.com](mailto:support@dev-spb.ru)
